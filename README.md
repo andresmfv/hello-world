@@ -1,2 +1,3 @@
 # hello-world
-repositorio prueba lab IBM
+Hi
+Esto es una prueba de CI/CD en IBM Cloud
